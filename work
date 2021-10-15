@@ -1,1 +1,30 @@
-OnDestroy
+Destroy
+   UnlockGameObject.SetActive(true);//解鎖
+   flick
+   Slider
+   phase
+   isRepeatFlicker
+   Lerp
+   Scale
+   
+           SceneManager.LoadScene(GameData.GameMenuSceneName);//load _GameMenu跑到原來頁面
+        public static string GameMenuSceneName = "_GameMenu";
+        Renderer
+        virtual
+        <>泛型集合
+        param
+        #endregion
+        IEnumerator
+        
+        is there any different？  public int SelectCheckPointIndex
+    {
+        get
+        {
+            return selectCheckPointIndex;
+        }
+
+        set
+        {
+            selectCheckPointIndex = value;
+        }
+    }
